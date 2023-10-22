@@ -2,7 +2,7 @@
 
 ### Project Description
 This repository represents my research in the field of multiclass classification of reviews from the popular
-marketplace [Wildberries](wildberries.ru). The project is divided into two versions, each of them includes not
+marketplace [Wildberries](https://www.wildberries.ru/). The project is divided into two versions, each of them includes not
 only code for data analysis but also tools for collecting new data through a parser.
 
 ### Goals:
