@@ -1,4 +1,4 @@
-# Reviews Classification with [Wildberries](wildberries.ru)
+# Reviews Classification with [Wildberries](https://www.wildberries.ru/)
 
 ### Project Description
 This repository represents my research in the field of multiclass classification of reviews from the popular
